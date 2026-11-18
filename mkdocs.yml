@@ -1,6 +1,6 @@
-site_name: StraightAnswer
-site_url: https://dakshvanshaj.com/straight-answer/
-repo_url: https://github.com/dakshvanshaj/straight-answer
+site_name: Straight Answer Agent
+site_url: https://dakshvanshaj.com/straight-answer-agent/
+repo_url: https://github.com/dakshvanshaj/straight-answer-agent
 nav:
   - Overview: index.md
   - How it works: how-it-works.md

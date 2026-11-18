@@ -1,4 +1,4 @@
-# StraightAnswer
+# Straight Answer Agent
 
 ### Never let an AI agent guess with your numbers.
 
