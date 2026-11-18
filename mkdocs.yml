@@ -1,0 +1,20 @@
+site_name: StraightAnswer
+site_url: https://dakshvanshaj.com/straight-answer/
+repo_url: https://github.com/dakshvanshaj/straight-answer
+nav:
+  - Overview: index.md
+  - How it works: how-it-works.md
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle: { icon: material/brightness-7, name: Dark mode }
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle: { icon: material/brightness-4, name: Light mode }
+  features: [content.code.copy]
+markdown_extensions:
+  - tables
+  - attr_list
+  - md_in_html
